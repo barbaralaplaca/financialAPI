@@ -9,7 +9,7 @@
   - [x] Must be possible to update client's information
   - [x] Must be possible to retrieve information from client's account
   - [x] Must be possible to delete an account
-  - [] Must be able to retrieve balance
+  - [x] Must be able to retrieve balance
 
 
 ### Rules
